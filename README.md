@@ -1,3 +1,6 @@
+# CDK VPC
+
+Just a simple repo to stand up a VPC for development
 
 # Welcome to your CDK Python project!
 
